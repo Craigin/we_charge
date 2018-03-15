@@ -1,0 +1,14 @@
+{
+  "port": 3665,
+  "url": {
+    "discovery": ""
+  },
+  "database": {
+    "timezone": "+08:00",
+    "we_charge": {
+      "host": "localhost",
+      "username": "root",
+      "password": ""
+    }
+  }
+}

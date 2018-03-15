@@ -1,0 +1,2212 @@
+{
+  "industry": [
+    {
+      "id": "2026",
+      "name": "Agriculture & Forestry Sector",
+      "children": [
+        {
+          "id": "1014",
+          "name": "Animal Production",
+          "children": [
+            {
+              "id": "1808",
+              "name": "Aquaculture"
+            },
+            {
+              "id": "1819",
+              "name": "Cattle Ranching"
+            },
+            {
+              "id": "1892",
+              "name": "Hog and Pig Farming"
+            },
+            {
+              "id": "2059",
+              "name": "Poultry & Egg Production"
+            }
+          ]
+        },
+        {
+          "id": "1839",
+          "name": "Commercial Fishing"
+        },
+        {
+          "id": "1015",
+          "name": "Crop Production",
+          "children": [
+            {
+              "id": "1877",
+              "name": "Fruit & Tree Nut Farming"
+            },
+            {
+              "id": "2027",
+              "name": "Grain Farming"
+            },
+            {
+              "id": "1938",
+              "name": "Oilseed Farming"
+            },
+            {
+              "id": "1989",
+              "name": "Vegetable and Melon Farming"
+            }
+          ]
+        },
+        {
+          "id": "1012",
+          "name": "Farm Support Services"
+        },
+        {
+          "id": "1950",
+          "name": "Nursery & Floriculture Production"
+        },
+        {
+          "id": "2028",
+          "name": "Timber Operations"
+        }
+      ]
+    },
+    {
+      "id": "1425",
+      "name": "Arts, Entertainment & Recreation Sector",
+      "children": [
+        {
+          "id": "2053",
+          "name": "Amusement Parks & Arcades"
+        },
+        {
+          "id": "1825",
+          "name": "Bowling Centers"
+        },
+        {
+          "id": "2054",
+          "name": "Fitness Centers"
+        },
+        {
+          "id": "1431",
+          "name": "Gambling"
+        },
+        {
+          "id": "1885",
+          "name": "Golf Courses"
+        },
+        {
+          "id": "1915",
+          "name": "Marinas"
+        },
+        {
+          "id": "1929",
+          "name": "Museums, Zoos & Parks"
+        },
+        {
+          "id": "1945",
+          "name": "Performing Arts Companies"
+        },
+        {
+          "id": "1449",
+          "name": "Professional Sports Teams & Organizations"
+        },
+        {
+          "id": "1978",
+          "name": "Ski Facilities"
+        },
+        {
+          "id": "1979",
+          "name": "Spa Services"
+        },
+        {
+          "id": "1061",
+          "name": "Talent & Modeling Agencies"
+        }
+      ]
+    },
+    {
+      "id": "1054",
+      "name": "Business Services Sector",
+      "children": [
+        {
+          "id": "1561",
+          "name": "Armored Vehicle Services"
+        },
+        {
+          "id": "1069",
+          "name": "Business Service Centers & Copy Shops"
+        },
+        {
+          "id": "1713",
+          "name": "Collection Agencies"
+        },
+        {
+          "id": "1714",
+          "name": "Credit Reporting Services"
+        },
+        {
+          "id": "1864",
+          "name": "Exterminating & Pest Control Services"
+        },
+        {
+          "id": "1905",
+          "name": "Janitorial & Carpet Cleaning Services"
+        },
+        {
+          "id": "1908",
+          "name": "Landscaping Services"
+        },
+        {
+          "id": "1563",
+          "name": "Security Guard Services"
+        },
+        {
+          "id": "1973",
+          "name": "Security System Services"
+        },
+        {
+          "id": "1075",
+          "name": "Staffing Services",
+          "children": [
+            {
+              "id": "1077",
+              "name": "Executive Search Services"
+            },
+            {
+              "id": "1081",
+              "name": "Professional Employer Organizations"
+            }
+          ]
+        },
+        {
+          "id": "1564",
+          "name": "Surveillance, Investigation & Security Consulting Services"
+        },
+        {
+          "id": "1985",
+          "name": "Telephone Call Centers"
+        },
+        {
+          "id": "1062",
+          "name": "Trade Show & Event Planning Services"
+        },
+        {
+          "id": "1218",
+          "name": "Travel Agencies & Services"
+        },
+        {
+          "id": "2049",
+          "name": "Waste Management Services",
+          "children": [
+            {
+              "id": "1295",
+              "name": "Hazardous Waste Services"
+            },
+            {
+              "id": "1296",
+              "name": "Remediation & Environmental Cleanup Services"
+            },
+            {
+              "id": "1297",
+              "name": "Solid Waste Services & Recycling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1208",
+      "name": "Consumer Services",
+      "children": [
+        {
+          "id": "1210",
+          "name": "Automotive Repair & Maintenance Services",
+          "children": [
+            {
+              "id": "2078",
+              "name": "Automotive Body, Paint, Interior & Glass Repair"
+            },
+            {
+              "id": "1814",
+              "name": "Automotive Oil Change & Lubrication Services"
+            },
+            {
+              "id": "1830",
+              "name": "Car Washes"
+            }
+          ]
+        },
+        {
+          "id": "1846",
+          "name": "Electronic Equipment Repair Services"
+        },
+        {
+          "id": "2055",
+          "name": "Funeral Services"
+        },
+        {
+          "id": "1213",
+          "name": "Hair Care Services"
+        },
+        {
+          "id": "1214",
+          "name": "Laundry Facilities & Dry Cleaning Services"
+        },
+        {
+          "id": "1083",
+          "name": "Linen & Uniform Supply Services"
+        },
+        {
+          "id": "1064",
+          "name": "Parking Lots & Garages"
+        },
+        {
+          "id": "2079",
+          "name": "Pet Care Services"
+        },
+        {
+          "id": "1220",
+          "name": "Weight Reduction Services"
+        }
+      ]
+    },
+    {
+      "id": "1222",
+      "name": "Education Sector",
+      "children": [
+        {
+          "id": "1224",
+          "name": "Colleges & Universities",
+          "children": [
+            {
+              "id": "1841",
+              "name": "Community Colleges"
+            }
+          ]
+        },
+        {
+          "id": "1225",
+          "name": "Education & Training Services"
+        },
+        {
+          "id": "1957",
+          "name": "Private Schools K-12"
+        },
+        {
+          "id": "1959",
+          "name": "Public Schools K-12"
+        }
+      ]
+    },
+    {
+      "id": "1267",
+      "name": "Electric Utilities",
+      "children": [
+        {
+          "id": "1856",
+          "name": "Electric Power Generation",
+          "children": [
+            {
+              "id": "1270",
+              "name": "Fossil Fuel Power Generation"
+            },
+            {
+              "id": "1272",
+              "name": "Nuclear Power Generation"
+            },
+            {
+              "id": "1803",
+              "name": "Solar Power Generation"
+            },
+            {
+              "id": "1804",
+              "name": "Wind Power Generation"
+            }
+          ]
+        },
+        {
+          "id": "1855",
+          "name": "Electric Power Transmission, Distribution & Marketing"
+        }
+      ]
+    },
+    {
+      "id": "1298",
+      "name": "Finance & Insurance Sector",
+      "children": [
+        {
+          "id": "1300",
+          "name": "Asset Management",
+          "children": [
+            {
+              "id": "1036",
+              "name": "Custodial & Trust Services"
+            },
+            {
+              "id": "1303",
+              "name": "Mutual Fund Management"
+            },
+            {
+              "id": "1305",
+              "name": "Retirement & Pension Management"
+            }
+          ]
+        },
+        {
+          "id": "1816",
+          "name": "Banks & Credit Unions"
+        },
+        {
+          "id": "1302",
+          "name": "Financial Planners & Investment Advisers"
+        },
+        {
+          "id": "1346",
+          "name": "Financial Transaction Processing"
+        },
+        {
+          "id": "1424",
+          "name": "Insurance Agencies & Brokerages"
+        },
+        {
+          "id": "1901",
+          "name": "Insurance Carriers",
+          "children": [
+            {
+              "id": "1385",
+              "name": "Health Insurance Carriers"
+            },
+            {
+              "id": "1410",
+              "name": "Life Insurance Carriers"
+            },
+            {
+              "id": "1412",
+              "name": "Property/Casualty Insurance Carriers"
+            },
+            {
+              "id": "1411",
+              "name": "Reinsurance Carriers"
+            },
+            {
+              "id": "1421",
+              "name": "Title Insurance Carriers"
+            }
+          ]
+        },
+        {
+          "id": "1308",
+          "name": "Investment Banking"
+        },
+        {
+          "id": "1316",
+          "name": "Lending",
+          "children": [
+            {
+              "id": "1318",
+              "name": "Auto Lending"
+            },
+            {
+              "id": "1325",
+              "name": "Consumer Lending"
+            },
+            {
+              "id": "1322",
+              "name": "Credit Cards"
+            },
+            {
+              "id": "1324",
+              "name": "Mortgage Banking"
+            }
+          ]
+        },
+        {
+          "id": "1330",
+          "name": "Securities Brokerages"
+        },
+        {
+          "id": "1338",
+          "name": "Stock Exchanges"
+        },
+        {
+          "id": "1314",
+          "name": "Venture Capital"
+        }
+      ]
+    },
+    {
+      "id": "1693",
+      "name": "Government",
+      "children": [
+        {
+          "id": "1696",
+          "name": "US Municipal Governments"
+        }
+      ]
+    },
+    {
+      "id": "1374",
+      "name": "Health Care Sector",
+      "children": [
+        {
+          "id": "2051",
+          "name": "Ambulatory Health Care Services",
+          "children": [
+            {
+              "id": "1805",
+              "name": "Ambulance Services"
+            },
+            {
+              "id": "1807",
+              "name": "Anesthesiologists"
+            },
+            {
+              "id": "1831",
+              "name": "Cardiologists"
+            },
+            {
+              "id": "1834",
+              "name": "Chiropractors"
+            },
+            {
+              "id": "1851",
+              "name": "Dentists"
+            },
+            {
+              "id": "1852",
+              "name": "Dermatologists"
+            },
+            {
+              "id": "1882",
+              "name": "General Surgeons"
+            },
+            {
+              "id": "1383",
+              "name": "Home Health Care Services"
+            },
+            {
+              "id": "1906",
+              "name": "Kidney Dialysis Centers"
+            },
+            {
+              "id": "2052",
+              "name": "Medical & Diagnostic Laboratories"
+            },
+            {
+              "id": "1917",
+              "name": "Mental Health & Substance Abuse Services"
+            },
+            {
+              "id": "1918",
+              "name": "Mental Health Professionals"
+            },
+            {
+              "id": "1936",
+              "name": "OBGYNs"
+            },
+            {
+              "id": "1939",
+              "name": "Oncologists"
+            },
+            {
+              "id": "1995",
+              "name": "Optometrists"
+            },
+            {
+              "id": "1940",
+              "name": "Outpatient Surgical Centers"
+            },
+            {
+              "id": "1944",
+              "name": "Pediatricians"
+            },
+            {
+              "id": "1949",
+              "name": "Physicians"
+            },
+            {
+              "id": "1952",
+              "name": "Podiatrists"
+            },
+            {
+              "id": "1965",
+              "name": "Rehabilitation Therapy Services"
+            }
+          ]
+        },
+        {
+          "id": "1380",
+          "name": "Hospitals"
+        },
+        {
+          "id": "1382",
+          "name": "Nursing Homes & Long-Term Care Facilities",
+          "children": [
+            {
+              "id": "2074",
+              "name": "Continuing Care & Assisted Living Facilities"
+            }
+          ]
+        },
+        {
+          "id": "2007",
+          "name": "Social Assistance",
+          "children": [
+            {
+              "id": "1833",
+              "name": "Child Care Services"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2060",
+      "name": "Heavy & Civil Engineering Construction",
+      "children": [
+        {
+          "id": "1891",
+          "name": "Highway, Street, & Bridge Construction Contractors"
+        },
+        {
+          "id": "1587",
+          "name": "Power Line & Telecommunications Infrastructure Construction Contractors"
+        },
+        {
+          "id": "1517",
+          "name": "Residential Real Estate Development"
+        }
+      ]
+    },
+    {
+      "id": "2002",
+      "name": "Lodging",
+      "children": [
+        {
+          "id": "1818",
+          "name": "Bed & Breakfast Inns"
+        },
+        {
+          "id": "1436",
+          "name": "Hotels, Motels & Resorts",
+          "children": [
+            {
+              "id": "2075",
+              "name": "Casino Hotels"
+            }
+          ]
+        },
+        {
+          "id": "2076",
+          "name": "Recreational & Vacation Camps"
+        },
+        {
+          "id": "1963",
+          "name": "Recreational Vehicle Parks"
+        }
+      ]
+    },
+    {
+      "id": "2024",
+      "name": "Management of Companies & Enterprises",
+      "children": [
+        {
+          "id": "1312",
+          "name": "Investment Firms"
+        }
+      ]
+    },
+    {
+      "id": "1388",
+      "name": "Manufacturing Sector",
+      "children": [
+        {
+          "id": "1161",
+          "name": "Apparel Manufacturing",
+          "children": [
+            {
+              "id": "1162",
+              "name": "Apparel Accessories Manufacturing"
+            },
+            {
+              "id": "1164",
+              "name": "Footwear Manufacturing"
+            },
+            {
+              "id": "1166",
+              "name": "Men's Clothing Manufacturing"
+            },
+            {
+              "id": "1167",
+              "name": "Women's Clothing Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1812",
+          "name": "Audio & Video Equipment Manufacturing"
+        },
+        {
+          "id": "1044",
+          "name": "Breweries"
+        },
+        {
+          "id": "1085",
+          "name": "Chemical Manufacturing",
+          "children": [
+            {
+              "id": "1086",
+              "name": "Agricultural Chemical Manufacturing"
+            },
+            {
+              "id": "1822",
+              "name": "Biofuel Manufacturing"
+            },
+            {
+              "id": "1087",
+              "name": "Industrial Chemical Manufacturing"
+            },
+            {
+              "id": "1089",
+              "name": "Paint & Coating Manufacturing"
+            },
+            {
+              "id": "1090",
+              "name": "Plastic Resin & Synthetic Fiber Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1068",
+          "name": "Commercial Printing"
+        },
+        {
+          "id": "1843",
+          "name": "Computer Manufacturing",
+          "children": [
+            {
+              "id": "1105",
+              "name": "Personal Computer Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1093",
+          "name": "Computer Networking Equipment Manufacturing"
+        },
+        {
+          "id": "1099",
+          "name": "Computer Peripheral Equipment Manufacturing"
+        },
+        {
+          "id": "2011",
+          "name": "Control, Electromedical, Measuring & Navigational Instruments Manufacturing",
+          "children": [
+            {
+              "id": "1244",
+              "name": "Electronic Inspection & Monitoring Instruments Manufacturing"
+            },
+            {
+              "id": "1242",
+              "name": "Electronic Test & Measurement Instruments Manufacturing"
+            },
+            {
+              "id": "1243",
+              "name": "Scientific & Technical Instruments Manufacturing"
+            },
+            {
+              "id": "1970",
+              "name": "Search, Detection, Navigation & Guidance System Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1109",
+          "name": "Data Storage Systems Manufacturing"
+        },
+        {
+          "id": "1045",
+          "name": "Distilleries"
+        },
+        {
+          "id": "1229",
+          "name": "Electrical Products Manufacturing",
+          "children": [
+            {
+              "id": "1980",
+              "name": "Battery Manufacturing"
+            },
+            {
+              "id": "1168",
+              "name": "Household Appliance Manufacturing"
+            },
+            {
+              "id": "1396",
+              "name": "Industrial Control Products Manufacturing"
+            },
+            {
+              "id": "1399",
+              "name": "Lighting Equipment Manufacturing"
+            },
+            {
+              "id": "1231",
+              "name": "Motor & Generator Manufacturing"
+            },
+            {
+              "id": "1233",
+              "name": "Switch, Connector & Other Wiring Device Manufacturing"
+            },
+            {
+              "id": "1234",
+              "name": "Transformer Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1377",
+          "name": "Electromedical, Electrotherapeutic & X-Ray Apparatus Manufacturing"
+        },
+        {
+          "id": "1175",
+          "name": "Eyewear Manufacturing"
+        },
+        {
+          "id": "1401",
+          "name": "Fabricated Metal Product Manufacturing",
+          "children": [
+            {
+              "id": "1981",
+              "name": "Architectural & Structural Metals Manufacturing"
+            },
+            {
+              "id": "1200",
+              "name": "Gun & Ammunition Manufacturing"
+            },
+            {
+              "id": "1996",
+              "name": "Handtool, Cutlery, & Flatware Manufacturing"
+            },
+            {
+              "id": "1395",
+              "name": "Hardware & Fastener Manufacturing"
+            },
+            {
+              "id": "1911",
+              "name": "Machine Shops"
+            },
+            {
+              "id": "1919",
+              "name": "Metal Coating, Engraving & Heat Treating"
+            },
+            {
+              "id": "2040",
+              "name": "Metal Valve & Pipe Fitting Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1349",
+          "name": "Food Manufacturing",
+          "children": [
+            {
+              "id": "1365",
+              "name": "Bakery Product Manufacturing"
+            },
+            {
+              "id": "1826",
+              "name": "Breakfast Cereal Manufacturing"
+            },
+            {
+              "id": "1351",
+              "name": "Candy Manufacturing"
+            },
+            {
+              "id": "1050",
+              "name": "Coffee & Tea Manufacturing"
+            },
+            {
+              "id": "1367",
+              "name": "Cookie & Cracker Manufacturing"
+            },
+            {
+              "id": "1354",
+              "name": "Dairy Products Manufacturing"
+            },
+            {
+              "id": "1355",
+              "name": "Edible Oils Manufacturing"
+            },
+            {
+              "id": "1350",
+              "name": "Fresh Prepared Foods"
+            },
+            {
+              "id": "1352",
+              "name": "Fruit & Vegetable Processing"
+            },
+            {
+              "id": "1366",
+              "name": "Grain Milling"
+            },
+            {
+              "id": "1013",
+              "name": "Livestock & Other Animal Food Manufacturing"
+            },
+            {
+              "id": "1369",
+              "name": "Meat Product Manufacturing"
+            },
+            {
+              "id": "1947",
+              "name": "Pet Food Manufacturing"
+            },
+            {
+              "id": "1954",
+              "name": "Poultry Product Manufacturing"
+            },
+            {
+              "id": "2033",
+              "name": "Seafood Processing"
+            },
+            {
+              "id": "2035",
+              "name": "Seasoning & Dressing Manufacturing"
+            },
+            {
+              "id": "1371",
+              "name": "Snack Foods Manufacturing"
+            },
+            {
+              "id": "1982",
+              "name": "Sugar Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1177",
+          "name": "Furniture Manufacturing",
+          "children": [
+            {
+              "id": "1190",
+              "name": "Office Furniture, Fixtures & Equipment Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "2042",
+          "name": "HVAC Equipment Manufacturing"
+        },
+        {
+          "id": "1186",
+          "name": "Jewelry Manufacturing"
+        },
+        {
+          "id": "1397",
+          "name": "Machinery Manufacturing",
+          "children": [
+            {
+              "id": "1389",
+              "name": "Agricultural Machinery Manufacturing"
+            },
+            {
+              "id": "1390",
+              "name": "Construction Machinery Manufacturing"
+            },
+            {
+              "id": "1393",
+              "name": "Food Product Machinery Manufacturing"
+            },
+            {
+              "id": "2065",
+              "name": "Lawn & Garden Tractor & Equipment Manufacturing"
+            },
+            {
+              "id": "1400",
+              "name": "Material Handling Equipment Manufacturing"
+            },
+            {
+              "id": "1923",
+              "name": "Metalworking Machinery Manufacturing"
+            },
+            {
+              "id": "1287",
+              "name": "Oil & Gas Field Equipment Manufacturing"
+            },
+            {
+              "id": "1196",
+              "name": "Photographic & Optical Equipment/Supplies Manufacturing"
+            },
+            {
+              "id": "2067",
+              "name": "Power-Driven Handtool Manufacturing"
+            },
+            {
+              "id": "1956",
+              "name": "Printing Machinery & Equipment Manufacturing"
+            },
+            {
+              "id": "2066",
+              "name": "Pump & Compressor Manufacturing"
+            },
+            {
+              "id": "1257",
+              "name": "Semiconductor Equipment Manufacturing"
+            },
+            {
+              "id": "2041",
+              "name": "Turbine Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "2010",
+          "name": "Magnetic & Optical Media Manufacturing & Reproduction",
+          "children": [
+            {
+              "id": "2000",
+              "name": "Magnetic & Optical Media Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1180",
+          "name": "Mattress Manufacturing"
+        },
+        {
+          "id": "1378",
+          "name": "Medical Equipment & Supplies Manufacturing"
+        },
+        {
+          "id": "1188",
+          "name": "Musical Instrument Manufacturing"
+        },
+        {
+          "id": "1048",
+          "name": "Nonalcoholic Beverage Manufacturing",
+          "children": [
+            {
+              "id": "1049",
+              "name": "Soft Drink Manufacturing"
+            },
+            {
+              "id": "1053",
+              "name": "Water & Ice Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "2018",
+          "name": "Nonmetallic Mineral Product Manufacturing",
+          "children": [
+            {
+              "id": "1801",
+              "name": "Abrasives Manufacturing"
+            },
+            {
+              "id": "2036",
+              "name": "Cement & Concrete Product Manufacturing"
+            },
+            {
+              "id": "2014",
+              "name": "China & Earthenware Plumbing Fixture Manufacturing"
+            },
+            {
+              "id": "2017",
+              "name": "Clay Product & Refractory Manufacturing"
+            },
+            {
+              "id": "2037",
+              "name": "Glass & Glass Product Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1191",
+          "name": "Office, School & Art Supplies Manufacturing"
+        },
+        {
+          "id": "1404",
+          "name": "Paper & Paper Products Manufacturing",
+          "children": [
+            {
+              "id": "1402",
+              "name": "Converted Paper Products Manufacturing"
+            },
+            {
+              "id": "1960",
+              "name": "Pulp & Paper Mills"
+            }
+          ]
+        },
+        {
+          "id": "1192",
+          "name": "Personal Care Products Manufacturing"
+        },
+        {
+          "id": "2015",
+          "name": "Petroleum & Coal Products Manufacturing",
+          "children": [
+            {
+              "id": "2016",
+              "name": "Asphalt Products Manufacturing"
+            },
+            {
+              "id": "2038",
+              "name": "Petroleum Refining"
+            }
+          ]
+        },
+        {
+          "id": "1486",
+          "name": "Pharmaceutical Manufacturing",
+          "children": [
+            {
+              "id": "1494",
+              "name": "Biotechnology Product Manufacturing"
+            },
+            {
+              "id": "1492",
+              "name": "Diagnostic Substance Manufacturing"
+            },
+            {
+              "id": "1490",
+              "name": "Vitamin, Nutritional Supplement & Other Health-Related Product Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1405",
+          "name": "Plastic & Rubber Product Manufacturing",
+          "children": [
+            {
+              "id": "1406",
+              "name": "Tire Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1955",
+          "name": "Primary Metals Manufacturing",
+          "children": [
+            {
+              "id": "1475",
+              "name": "Aluminum Production"
+            },
+            {
+              "id": "1484",
+              "name": "Steel Production"
+            }
+          ]
+        },
+        {
+          "id": "2043",
+          "name": "Security Products Manufacturing"
+        },
+        {
+          "id": "1859",
+          "name": "Semiconductor & Other Electronic Component Manufacturing"
+        },
+        {
+          "id": "1976",
+          "name": "Sign Manufacturing"
+        },
+        {
+          "id": "1170",
+          "name": "Soap & Other Detergent Manufacturing"
+        },
+        {
+          "id": "1197",
+          "name": "Sporting Goods Manufacturing",
+          "children": [
+            {
+              "id": "1201",
+              "name": "Fitness Equipment Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1565",
+          "name": "Telecommunications Equipment Manufacturing",
+          "children": [
+            {
+              "id": "1568",
+              "name": "Wireless Telecommunications Equipment Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1407",
+          "name": "Textile Manufacturing",
+          "children": [
+            {
+              "id": "1871",
+              "name": "Carpet & Rug Manufacturing"
+            },
+            {
+              "id": "1181",
+              "name": "Linens Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1203",
+          "name": "Tobacco Product Manufacturing"
+        },
+        {
+          "id": "1207",
+          "name": "Toy & Game Manufacturing",
+          "children": [
+            {
+              "id": "1173",
+              "name": "Electronic Toys & Games Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1018",
+          "name": "Transportation Equipment Manufacturing",
+          "children": [
+            {
+              "id": "1001",
+              "name": "Aerospace Products & Parts Manufacturing"
+            },
+            {
+              "id": "1802",
+              "name": "Aircraft Engine & Parts Manufacturing"
+            },
+            {
+              "id": "1810",
+              "name": "Armored Military Vehicle Manufacturing"
+            },
+            {
+              "id": "1019",
+              "name": "Automobile Manufacturing"
+            },
+            {
+              "id": "1020",
+              "name": "Automobile Parts Manufacturing"
+            },
+            {
+              "id": "1023",
+              "name": "Boat Building"
+            },
+            {
+              "id": "1010",
+              "name": "Guided Missile & Space Vehicle Manufacturing"
+            },
+            {
+              "id": "1927",
+              "name": "Motorcycle Manufacturing"
+            },
+            {
+              "id": "2044",
+              "name": "Railroad Equipment Manufacturing"
+            },
+            {
+              "id": "1025",
+              "name": "Recreational Vehicle Manufacturing"
+            },
+            {
+              "id": "1975",
+              "name": "Shipbuilding & Repairing"
+            },
+            {
+              "id": "1026",
+              "name": "Truck & Bus Manufacturing"
+            },
+            {
+              "id": "1998",
+              "name": "Truck Trailer Manufacturing"
+            }
+          ]
+        },
+        {
+          "id": "1046",
+          "name": "Wineries"
+        },
+        {
+          "id": "2013",
+          "name": "Wood Product Manufacturing",
+          "children": [
+            {
+              "id": "1968",
+              "name": "Lumber & Plywood Product Manufacturing"
+            },
+            {
+              "id": "1913",
+              "name": "Manufactured Home Manufacturing"
+            },
+            {
+              "id": "1153",
+              "name": "Prefabricated Wood Building Manufacturing"
+            },
+            {
+              "id": "1993",
+              "name": "Wood Flooring Manufacturing"
+            },
+            {
+              "id": "1994",
+              "name": "Wood Window & Door Manufacturing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1450",
+      "name": "Media",
+      "children": [
+        {
+          "id": "1121",
+          "name": "Computer Software",
+          "children": [
+            {
+              "id": "1125",
+              "name": "Business Intelligence Software"
+            },
+            {
+              "id": "1127",
+              "name": "Content & Document Management Software"
+            },
+            {
+              "id": "1130",
+              "name": "Development Tools, Operating Systems & Utilities Software"
+            },
+            {
+              "id": "1132",
+              "name": "Education & Training Software"
+            },
+            {
+              "id": "1136",
+              "name": "Entertainment & Games Software"
+            },
+            {
+              "id": "1142",
+              "name": "Multimedia, Graphics & Publishing Software"
+            }
+          ]
+        },
+        {
+          "id": "1451",
+          "name": "Film & Video",
+          "children": [
+            {
+              "id": "1455",
+              "name": "Motion Picture Production & Distribution"
+            },
+            {
+              "id": "1429",
+              "name": "Movie Theaters"
+            },
+            {
+              "id": "2008",
+              "name": "Special Effects & Other Video Post-Production Services"
+            },
+            {
+              "id": "1472",
+              "name": "TV Program Production & Distribution"
+            }
+          ]
+        },
+        {
+          "id": "1904",
+          "name": "Internet Publishing, Broadcasting & Search Portals"
+        },
+        {
+          "id": "2071",
+          "name": "Libraries & Archives"
+        },
+        {
+          "id": "1585",
+          "name": "Managed Application & Network Services"
+        },
+        {
+          "id": "1459",
+          "name": "Music Production & Distribution"
+        },
+        {
+          "id": "1461",
+          "name": "Publishing",
+          "children": [
+            {
+              "id": "1462",
+              "name": "Book Publishers"
+            },
+            {
+              "id": "1463",
+              "name": "Directory & Mailing List Publishers"
+            },
+            {
+              "id": "1464",
+              "name": "Greeting Card Publishers"
+            },
+            {
+              "id": "1466",
+              "name": "Magazine Publishers"
+            },
+            {
+              "id": "1465",
+              "name": "Newspaper Publishers"
+            }
+          ]
+        },
+        {
+          "id": "1468",
+          "name": "Radio Broadcasting & Programming"
+        },
+        {
+          "id": "1577",
+          "name": "Telecommunications Services",
+          "children": [
+            {
+              "id": "1593",
+              "name": "Telecommunications Resellers"
+            },
+            {
+              "id": "1590",
+              "name": "Wired Telecommunications Services"
+            },
+            {
+              "id": "1594",
+              "name": "Wireless Telecommunications Services"
+            }
+          ]
+        },
+        {
+          "id": "1469",
+          "name": "Television Broadcasting",
+          "children": [
+            {
+              "id": "1470",
+              "name": "TV Broadcast & Cable Networks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1473",
+      "name": "Membership Organizations",
+      "children": [
+        {
+          "id": "1828",
+          "name": "Business & Professional Associations"
+        },
+        {
+          "id": "1894",
+          "name": "Homeowner Associations"
+        },
+        {
+          "id": "1907",
+          "name": "Labor Unions"
+        }
+      ]
+    },
+    {
+      "id": "1474",
+      "name": "Mining",
+      "children": [
+        {
+          "id": "1476",
+          "name": "Coal Mining"
+        },
+        {
+          "id": "1920",
+          "name": "Metal Ore Mining",
+          "children": [
+            {
+              "id": "1477",
+              "name": "Copper & Nickel Mining"
+            },
+            {
+              "id": "1482",
+              "name": "Gold & Silver Mining"
+            }
+          ]
+        },
+        {
+          "id": "1934",
+          "name": "Nonmetallic Mineral Mining & Quarrying"
+        }
+      ]
+    },
+    {
+      "id": "1283",
+      "name": "Natural Gas Distribution & Marketing"
+    },
+    {
+      "id": "2058",
+      "name": "Nonclassifiable establishments"
+    },
+    {
+      "id": "2056",
+      "name": "Nonprofit Institutions",
+      "children": [
+        {
+          "id": "1373",
+          "name": "Grantmaking Foundations"
+        },
+        {
+          "id": "1889",
+          "name": "Health Fund-raising Organizations"
+        }
+      ]
+    },
+    {
+      "id": "2061",
+      "name": "Nonresidential Building Construction"
+    },
+    {
+      "id": "1284",
+      "name": "Oil & Gas Exploration & Production"
+    },
+    {
+      "id": "1288",
+      "name": "Oil & Gas Field Services"
+    },
+    {
+      "id": "1285",
+      "name": "Oil & Gas Well Drilling"
+    },
+    {
+      "id": "2057",
+      "name": "Private Households"
+    },
+    {
+      "id": "1958",
+      "name": "Professional Services Sector",
+      "children": [
+        {
+          "id": "1299",
+          "name": "Accounting Services",
+          "children": [
+            {
+              "id": "1943",
+              "name": "Payroll Services"
+            }
+          ]
+        },
+        {
+          "id": "1055",
+          "name": "Advertising & Marketing Services",
+          "children": [
+            {
+              "id": "1056",
+              "name": "Advertising Agencies"
+            },
+            {
+              "id": "1057",
+              "name": "Direct Marketing Services"
+            },
+            {
+              "id": "2073",
+              "name": "Outdoor Advertising"
+            },
+            {
+              "id": "1059",
+              "name": "Public Relations Services"
+            },
+            {
+              "id": "1060",
+              "name": "Sales Promotion Services"
+            }
+          ]
+        },
+        {
+          "id": "1151",
+          "name": "Architectural & Engineering Services",
+          "children": [
+            {
+              "id": "1809",
+              "name": "Architectural Services"
+            },
+            {
+              "id": "1861",
+              "name": "Engineering Services"
+            }
+          ]
+        },
+        {
+          "id": "1071",
+          "name": "Consulting Services",
+          "children": [
+            {
+              "id": "1862",
+              "name": "Environmental Consulting Services"
+            },
+            {
+              "id": "1072",
+              "name": "Human Resources Consulting Services"
+            }
+          ]
+        },
+        {
+          "id": "1286",
+          "name": "Geophysical Surveying & Mapping Services"
+        },
+        {
+          "id": "1888",
+          "name": "Graphic Design Services"
+        },
+        {
+          "id": "2072",
+          "name": "Industrial Design Services"
+        },
+        {
+          "id": "1119",
+          "name": "Information Technology Services"
+        },
+        {
+          "id": "1902",
+          "name": "Interior Design Services"
+        },
+        {
+          "id": "1063",
+          "name": "Legal Services"
+        },
+        {
+          "id": "1058",
+          "name": "Market Research & Polling Services"
+        },
+        {
+          "id": "1216",
+          "name": "Photographic Services"
+        },
+        {
+          "id": "1082",
+          "name": "Scientific Research & Development Services",
+          "children": [
+            {
+              "id": "1497",
+              "name": "Biotechnology Research Services"
+            }
+          ]
+        },
+        {
+          "id": "2004",
+          "name": "Testing Laboratories"
+        },
+        {
+          "id": "1219",
+          "name": "Veterinary Services"
+        }
+      ]
+    },
+    {
+      "id": "1498",
+      "name": "Real Estate",
+      "children": [
+        {
+          "id": "1840",
+          "name": "Commercial Real Estate Brokerage & Management",
+          "children": [
+            {
+              "id": "1501",
+              "name": "Commercial Real Estate Brokerage"
+            },
+            {
+              "id": "1500",
+              "name": "Commercial Real Estate Management"
+            }
+          ]
+        },
+        {
+          "id": "1503",
+          "name": "Real Estate Investment Trusts (REITs)"
+        },
+        {
+          "id": "1514",
+          "name": "Residential Property Investment"
+        },
+        {
+          "id": "1516",
+          "name": "Residential Real Estate Brokerage & Management"
+        },
+        {
+          "id": "1974",
+          "name": "Self-Storage Services"
+        }
+      ]
+    },
+    {
+      "id": "1835",
+      "name": "Religious Organizations"
+    },
+    {
+      "id": "2001",
+      "name": "Rental & Leasing",
+      "children": [
+        {
+          "id": "1008",
+          "name": "Aircraft Leasing"
+        },
+        {
+          "id": "1211",
+          "name": "Automobile Rental & Leasing",
+          "children": [
+            {
+              "id": "1027",
+              "name": "Truck Rental & Leasing"
+            }
+          ]
+        },
+        {
+          "id": "1398",
+          "name": "Commercial & Industrial Equipment Rental & Leasing"
+        },
+        {
+          "id": "1848",
+          "name": "Consumer Product Rental"
+        },
+        {
+          "id": "1120",
+          "name": "Technology & Office Equipment Leasing"
+        }
+      ]
+    },
+    {
+      "id": "1154",
+      "name": "Residential Construction Contractors"
+    },
+    {
+      "id": "2003",
+      "name": "Restaurants, Bars & Food Services",
+      "children": [
+        {
+          "id": "1817",
+          "name": "Bars & Nightclubs"
+        },
+        {
+          "id": "1832",
+          "name": "Catering Services"
+        },
+        {
+          "id": "1358",
+          "name": "Food Service Contractors"
+        },
+        {
+          "id": "2077",
+          "name": "Mobile Food Services"
+        },
+        {
+          "id": "1442",
+          "name": "Restaurants",
+          "children": [
+            {
+              "id": "1443",
+              "name": "Casual Restaurants"
+            },
+            {
+              "id": "1837",
+              "name": "Coffee Shops"
+            },
+            {
+              "id": "1444",
+              "name": "Fast-Food & Quick-Service Restaurants"
+            },
+            {
+              "id": "1445",
+              "name": "Specialty Eateries"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1518",
+      "name": "Retail Sector",
+      "children": [
+        {
+          "id": "1811",
+          "name": "Art Dealers & Galleries"
+        },
+        {
+          "id": "1522",
+          "name": "Automobile Dealers",
+          "children": [
+            {
+              "id": "2069",
+              "name": "Used Car Dealers"
+            }
+          ]
+        },
+        {
+          "id": "1521",
+          "name": "Automotive Parts & Accessories Stores",
+          "children": [
+            {
+              "id": "1986",
+              "name": "Tire Dealers"
+            }
+          ]
+        },
+        {
+          "id": "1821",
+          "name": "Beer, Wine & Liquor Stores"
+        },
+        {
+          "id": "1823",
+          "name": "Boat Dealers"
+        },
+        {
+          "id": "1824",
+          "name": "Bookstores"
+        },
+        {
+          "id": "2047",
+          "name": "Building Material Dealers",
+          "children": [
+            {
+              "id": "1539",
+              "name": "Home Centers & Hardware Stores"
+            },
+            {
+              "id": "1941",
+              "name": "Paint & Wallpaper Stores"
+            }
+          ]
+        },
+        {
+          "id": "1519",
+          "name": "Clothing Stores",
+          "children": [
+            {
+              "id": "1520",
+              "name": "Shoe Stores"
+            }
+          ]
+        },
+        {
+          "id": "1526",
+          "name": "Consumer Electronics & Appliances Stores",
+          "children": [
+            {
+              "id": "1895",
+              "name": "Household Appliance Stores"
+            }
+          ]
+        },
+        {
+          "id": "1527",
+          "name": "Convenience Stores & Truck Stops",
+          "children": [
+            {
+              "id": "1262",
+              "name": "Gas Stations"
+            }
+          ]
+        },
+        {
+          "id": "1528",
+          "name": "Cosmetics, Beauty Supply & Perfume Stores"
+        },
+        {
+          "id": "1529",
+          "name": "Department Stores"
+        },
+        {
+          "id": "1546",
+          "name": "Direct Selling"
+        },
+        {
+          "id": "2046",
+          "name": "Discount Department Stores"
+        },
+        {
+          "id": "2005",
+          "name": "Dollar & Other General Merchandise Stores"
+        },
+        {
+          "id": "1532",
+          "name": "Drug Stores",
+          "children": [
+            {
+              "id": "1890",
+              "name": "Health Supplement Stores"
+            }
+          ]
+        },
+        {
+          "id": "1872",
+          "name": "Florists"
+        },
+        {
+          "id": "1878",
+          "name": "Fuel Oil & LP Gas Dealers"
+        },
+        {
+          "id": "1881",
+          "name": "Garden Centers & Farm Supply Stores"
+        },
+        {
+          "id": "1883",
+          "name": "Gift, Novelty & Souvenir Stores"
+        },
+        {
+          "id": "1535",
+          "name": "Grocery Stores & Supermarkets",
+          "children": [
+            {
+              "id": "1536",
+              "name": "Specialty Food Stores"
+            }
+          ]
+        },
+        {
+          "id": "1538",
+          "name": "Home Furniture & Housewares Stores",
+          "children": [
+            {
+              "id": "1880",
+              "name": "Furniture Stores"
+            },
+            {
+              "id": "1893",
+              "name": "Home Furnishings Stores"
+            }
+          ]
+        },
+        {
+          "id": "1540",
+          "name": "Jewelry Stores"
+        },
+        {
+          "id": "2080",
+          "name": "Marijuana Stores"
+        },
+        {
+          "id": "1928",
+          "name": "Motorcycle Dealers"
+        },
+        {
+          "id": "1543",
+          "name": "Musical Instrument Stores"
+        },
+        {
+          "id": "1544",
+          "name": "Nonstore Retail",
+          "children": [
+            {
+              "id": "1547",
+              "name": "Internet & Mail-Order Retail"
+            },
+            {
+              "id": "1066",
+              "name": "Internet Auctions"
+            }
+          ]
+        },
+        {
+          "id": "1554",
+          "name": "Office Supply Stores"
+        },
+        {
+          "id": "1215",
+          "name": "Opticians"
+        },
+        {
+          "id": "1946",
+          "name": "Pet & Pet Supplies Stores"
+        },
+        {
+          "id": "1962",
+          "name": "Recreational Vehicle Dealers"
+        },
+        {
+          "id": "1551",
+          "name": "Sporting Goods Stores"
+        },
+        {
+          "id": "1997",
+          "name": "Toy & Hobby Stores"
+        },
+        {
+          "id": "1988",
+          "name": "Used Merchandise Stores"
+        },
+        {
+          "id": "1990",
+          "name": "Vending Machine Operators"
+        },
+        {
+          "id": "1531",
+          "name": "Warehouse Clubs & Superstores"
+        }
+      ]
+    },
+    {
+      "id": "1155",
+      "name": "Specialty Contractors",
+      "children": [
+        {
+          "id": "1854",
+          "name": "Drywall, Plaster, Acoustic & Insulation Contractors"
+        },
+        {
+          "id": "1857",
+          "name": "Electrical Contractors"
+        },
+        {
+          "id": "1875",
+          "name": "Framing Contractors"
+        },
+        {
+          "id": "2064",
+          "name": "Masonry Contractors"
+        },
+        {
+          "id": "1942",
+          "name": "Painting & Wall Covering Contractors"
+        },
+        {
+          "id": "1951",
+          "name": "Plumbing & HVAC Contractors"
+        },
+        {
+          "id": "2062",
+          "name": "Poured Concrete Foundation & Structure Contractors"
+        },
+        {
+          "id": "1967",
+          "name": "Roofing, Siding, & Sheet Metal Contractors"
+        },
+        {
+          "id": "1977",
+          "name": "Site Preparation Contractors"
+        },
+        {
+          "id": "2063",
+          "name": "Structural Steel & Precast Concrete Contractors"
+        }
+      ]
+    },
+    {
+      "id": "1597",
+      "name": "Transportation Services Sector",
+      "children": [
+        {
+          "id": "1600",
+          "name": "Airlines"
+        },
+        {
+          "id": "1601",
+          "name": "Airport Operations",
+          "children": [
+            {
+              "id": "1002",
+              "name": "Aircraft Maintenance & Repair"
+            }
+          ]
+        },
+        {
+          "id": "1602",
+          "name": "Bus Transportation Services"
+        },
+        {
+          "id": "1603",
+          "name": "Charter & Other Nonscheduled Air Transportation Services"
+        },
+        {
+          "id": "1604",
+          "name": "Express Delivery Services"
+        },
+        {
+          "id": "1605",
+          "name": "Freight Forwarding Services"
+        },
+        {
+          "id": "1926",
+          "name": "Motor Vehicle Towing"
+        },
+        {
+          "id": "1624",
+          "name": "Moving Services"
+        },
+        {
+          "id": "1278",
+          "name": "Oil & Gas Transportation & Storage",
+          "children": [
+            {
+              "id": "1279",
+              "name": "Crude Petroleum Pipelines"
+            },
+            {
+              "id": "1281",
+              "name": "Natural Gas Pipelines"
+            },
+            {
+              "id": "1282",
+              "name": "Refined Petroleum Pipelines"
+            }
+          ]
+        },
+        {
+          "id": "1613",
+          "name": "Port, Harbor & Marine Terminal Management"
+        },
+        {
+          "id": "1614",
+          "name": "Postal Services"
+        },
+        {
+          "id": "1616",
+          "name": "Railroads"
+        },
+        {
+          "id": "1625",
+          "name": "Specialty Trucking"
+        },
+        {
+          "id": "1620",
+          "name": "Taxi & Limousine Services"
+        },
+        {
+          "id": "1622",
+          "name": "Trucking",
+          "children": [
+            {
+              "id": "1623",
+              "name": "Less-Than-Truckload Carriers"
+            },
+            {
+              "id": "1626",
+              "name": "Truckload Carriers"
+            }
+          ]
+        },
+        {
+          "id": "2070",
+          "name": "Urban Transit Systems",
+          "children": [
+            {
+              "id": "1617",
+              "name": "Commuter Rail Systems"
+            }
+          ]
+        },
+        {
+          "id": "1609",
+          "name": "Warehousing & Storage",
+          "children": [
+            {
+              "id": "1074",
+              "name": "Information & Records Management Services"
+            }
+          ]
+        },
+        {
+          "id": "1610",
+          "name": "Water Transportation Services",
+          "children": [
+            {
+              "id": "1836",
+              "name": "Coastal & Great Lakes Freight Transportation"
+            },
+            {
+              "id": "1850",
+              "name": "Cruise Ships"
+            },
+            {
+              "id": "1611",
+              "name": "Deep Sea Freight Transportation"
+            },
+            {
+              "id": "1612",
+              "name": "Inland Water Freight Transportation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1992",
+      "name": "Water & Sewer Utilities"
+    },
+    {
+      "id": "1800",
+      "name": "Wholesale Sector",
+      "children": [
+        {
+          "id": "1820",
+          "name": "Beer, Wine & Distilled Spirits Wholesalers"
+        },
+        {
+          "id": "1088",
+          "name": "Chemical Wholesalers"
+        },
+        {
+          "id": "1842",
+          "name": "Computer & Office Equipment Wholesalers"
+        },
+        {
+          "id": "1493",
+          "name": "Drug Wholesalers"
+        },
+        {
+          "id": "1858",
+          "name": "Electrical, Plumbing & Hardware Wholesalers",
+          "children": [
+            {
+              "id": "1230",
+              "name": "Electrical Products Wholesalers"
+            }
+          ]
+        },
+        {
+          "id": "1240",
+          "name": "Electronic Component Wholesalers"
+        },
+        {
+          "id": "1865",
+          "name": "Farm & Garden Equipment Wholesalers"
+        },
+        {
+          "id": "1361",
+          "name": "Food Wholesalers",
+          "children": [
+            {
+              "id": "1362",
+              "name": "Fresh Produce Wholesalers"
+            }
+          ]
+        },
+        {
+          "id": "2068",
+          "name": "Grain & Field Bean Wholesalers"
+        },
+        {
+          "id": "1627",
+          "name": "Industrial Equipment Wholesalers"
+        },
+        {
+          "id": "1899",
+          "name": "Industrial Supply Wholesalers"
+        },
+        {
+          "id": "1909",
+          "name": "Lumber Wholesalers"
+        },
+        {
+          "id": "1376",
+          "name": "Medical Equipment & Supply Wholesalers"
+        },
+        {
+          "id": "2023",
+          "name": "Office Supply & Paper Wholesalers"
+        },
+        {
+          "id": "1264",
+          "name": "Petroleum & Petroleum Products Wholesalers"
+        },
+        {
+          "id": "1964",
+          "name": "Recyclable Material Wholesalers"
+        },
+        {
+          "id": "1485",
+          "name": "Steel Service Centers & Other Metal Wholesalers"
+        },
+        {
+          "id": "1987",
+          "name": "Tire Wholesalers"
+        }
+      ]
+    }
+  ]
+}

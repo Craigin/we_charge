@@ -1,0 +1,41 @@
+{
+  "name": "xmdb-schema",
+  "version": "0.1.0",
+  "description": "Xiaoman Database Schema",
+  "main": "src/index.js",
+  "scripts": {
+    "burrow": "node scripts/burrow.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.xiaoman.co:7999/cm/xmdb-schema.git"
+  },
+  "keywords": [
+    "Xiaoman",
+    "Database",
+    "Schema"
+  ],
+  "author": "hao@xiaoman.cn",
+  "license": "XIAOMAN PRIVATE",
+  "devDependencies": {
+    "autoprefixer": "^6.2.0",
+    "babel": "^5.8.34",
+    "babel-core": "^5.8.34",
+    "babel-eslint": "^7.2.0",
+    "babel-loader": "^5.4.0",
+    "eslint": "^3.18.0",
+    "eslint-config-standard": "^7.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-react": "^6.10.3",
+    "eslint-plugin-standard": "^2.1.1",
+    "sequelize-auto": "git+https://git.coding.net/budding/sequelize-auto.git#master"
+  },
+  "dependencies": {
+    "graphql": "^0.5.0",
+    "lodash": "^3.10.1",
+    "long": "^3.0.3",
+    "mysql": "^2.10.0",
+    "sequelize": "^3.17.1",
+    "webpack": "^2.6.0"
+  }
+}

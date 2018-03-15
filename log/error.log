@@ -1,0 +1,129 @@
+TypeError: body.RecordDates.map is not a function
+    at _callee15$ (D:\code\南园\we-charge\src\backend\router/handle.js:919:54)
+    at tryCatch (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (D:\code\南园\we-charge\node_modules\core-js\library\modules\_export.js:35:28)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at D:\code\南园\we-charge\src\backend\router/handle.js:911:3
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\code\南园\we-charge\node_modules\koa-router\lib\router.js:345:16
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at _callee$ (D:\code\南园\we-charge\src\backend\middleware/session.js:16:20)
+    at tryCatch (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (D:\code\南园\we-charge\node_modules\core-js\library\modules\_export.js:35:28)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at D:\code\南园\we-charge\src\backend\middleware/session.js:12:3
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\code\南园\we-charge\node_modules\koa-router\lib\router.js:345:16
+ReferenceError: bRecordDates is not defined
+    at _callee15$ (D:\code\南园\we-charge\src\backend\router/handle.js:920:37)
+    at tryCatch (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (D:\code\南园\we-charge\node_modules\core-js\library\modules\_export.js:35:28)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at D:\code\南园\we-charge\src\backend\router/handle.js:911:3
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\code\南园\we-charge\node_modules\koa-router\lib\router.js:345:16
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at _callee$ (D:\code\南园\we-charge\src\backend\middleware/session.js:16:20)
+    at tryCatch (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (D:\code\南园\we-charge\node_modules\core-js\library\modules\_export.js:35:28)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at D:\code\南园\we-charge\src\backend\middleware/session.js:12:3
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\code\南园\we-charge\node_modules\koa-router\lib\router.js:345:16
+SequelizeDatabaseError: Unknown column 'sector' in 'field list'
+    at Query.formatError (D:\code\南园\we-charge\node_modules\sequelize\lib\dialects\mysql\query.js:228:16)
+    at Query.connection.query [as onResult] (D:\code\南园\we-charge\node_modules\sequelize\lib\dialects\mysql\query.js:55:23)
+    at Query.Command.execute (D:\code\南园\we-charge\node_modules\mysql2\lib\commands\command.js:30:12)
+    at Connection.handlePacket (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:515:28)
+    at PacketParser.onPacket (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:94:16)
+    at PacketParser.executeStart (D:\code\南园\we-charge\node_modules\mysql2\lib\packet_parser.js:77:14)
+    at Socket.<anonymous> (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:102:29)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+SequelizeDatabaseError: Unknown column 'payload' in 'field list'
+    at Query.formatError (D:\code\南园\we-charge\node_modules\sequelize\lib\dialects\mysql\query.js:228:16)
+    at Query.connection.query [as onResult] (D:\code\南园\we-charge\node_modules\sequelize\lib\dialects\mysql\query.js:55:23)
+    at Query.Command.execute (D:\code\南园\we-charge\node_modules\mysql2\lib\commands\command.js:30:12)
+    at Connection.handlePacket (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:515:28)
+    at PacketParser.onPacket (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:94:16)
+    at PacketParser.executeStart (D:\code\南园\we-charge\node_modules\mysql2\lib\packet_parser.js:77:14)
+    at Socket.<anonymous> (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:102:29)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+SequelizeDatabaseError: Unknown column 'payload' in 'field list'
+    at Query.formatError (D:\code\南园\we-charge\node_modules\sequelize\lib\dialects\mysql\query.js:228:16)
+    at Query.connection.query [as onResult] (D:\code\南园\we-charge\node_modules\sequelize\lib\dialects\mysql\query.js:55:23)
+    at Query.Command.execute (D:\code\南园\we-charge\node_modules\mysql2\lib\commands\command.js:30:12)
+    at Connection.handlePacket (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:515:28)
+    at PacketParser.onPacket (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:94:16)
+    at PacketParser.executeStart (D:\code\南园\we-charge\node_modules\mysql2\lib\packet_parser.js:77:14)
+    at Socket.<anonymous> (D:\code\南园\we-charge\node_modules\mysql2\lib\connection.js:102:29)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:594:20)
+SyntaxError: Unexpected token o in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at _callee19$ (D:\code\南园\we-charge\src\backend\router/handle.js:988:22)
+    at tryCatch (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (D:\code\南园\we-charge\node_modules\core-js\library\modules\_export.js:35:28)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at D:\code\南园\we-charge\src\backend\router/handle.js:980:3
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at D:\code\南园\we-charge\node_modules\koa-router\lib\router.js:345:16
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at _callee$ (D:\code\南园\we-charge\src\backend\middleware/session.js:16:20)
+    at tryCatch (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:62:40)
+    at Generator.invoke [as _invoke] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:296:22)
+    at Generator.prototype.(anonymous function) [as next] (D:\code\南园\we-charge\node_modules\regenerator-runtime\runtime.js:114:21)
+    at step (D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:17:30)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:35:14
+    at new Promise (<anonymous>)
+    at new F (D:\code\南园\we-charge\node_modules\core-js\library\modules\_export.js:35:28)
+    at D:\code\南园\we-charge\node_modules\babel-runtime\helpers\asyncToGenerator.js:14:12
+    at D:\code\南园\we-charge\src\backend\middleware/session.js:12:3
+    at dispatch (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (D:\code\南园\we-charge\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)

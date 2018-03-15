@@ -1,0 +1,18 @@
+{
+  "logging": {
+    "default": {
+      "console": {
+        "level": "debug",
+        "colorize": true
+      },
+      "file": {
+        "timestamp": true,
+        "json": false,
+        "filename": "log/default.log",
+        "maxfiles": 5,
+        "maxsize": 10485760,
+        "level": "debug"
+      }
+    }
+  }
+}

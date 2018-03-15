@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>WEB打印控件LODOP的样例二:打印当前页面的内容</title>
+
+    <script language="javascript" src="LodopFuncs.js"></script>
+</head>
+
+<body>
+    <h2><font color="#009999">演示如何打印当前页面的内容：</font>
+</h2>
+    <br>
+    <div >
+      <div id="form1">
+          <table border="0" width="90%" style="border-collapse:collapse;margin-top: 100px">
+              <tr>
+                  <td style="font-size: 22px;text-align: center">
+                      144
+                  </td>
+              </tr>
+              <tr height="30">
+                  <td style="font-size: 13px;text-align: right">
+                      抄表日期: 2018年1月
+                  </td>
+              </tr>
+          </table>
+          <table border="1" width="90%" style="border-collapse:collapse">
+            <tr height="30" style="text-align: center">
+              <td width="11%">顺序</td>
+              <td width="11%">房号</td>
+              <td width="11%">项目</td>
+              <td width="11%">上月数</td>
+              <td width="11%">本月数</td>
+              <td width="11%">实用数</td>
+              <td width="11%">单价</td>
+              <td width="11%">金额</td>
+              <td width="11%">合计</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <td rowspan="4">1</td>
+              <td rowspan="4">1</td>
+              <td>水费</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td rowspan="4">1</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <!-- <td>1</td> -->
+              <!-- <td>1</td> -->
+              <td>排水费</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <!-- <td>1</td> -->
+            </tr>
+            <tr height="30" style="text-align: center">
+              <!-- <td>1</td> -->
+              <!-- <td>1</td> -->
+              <td>垃圾处理费</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <!-- <td>1</td> -->
+            </tr>
+            <tr height="30" style="text-align: center">
+              <!-- <td>1</td> -->
+              <!-- <td>1</td> -->
+              <td>电费</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <td>1</td>
+              <!-- <td>1</td> -->
+            </tr>
+          </table>
+          <table border="0" width="90%" style="border-collapse:collapse;margin-top: 60px">
+              <tr>
+                  <td style="font-size: 22px;text-align: center">
+                      144
+                  </td>
+              </tr>
+              <tr height="30">
+                  <td style="font-size: 13px;text-align: right">
+                      抄表日期: 2018年1月
+                  </td>
+              </tr>
+          </table>
+          <table border="1" width="90%" style="border-collapse:collapse">
+            <tr height="30" style="text-align: center">
+              <td width="25%">项目</td>
+              <td width="25%">实用数</td>
+              <td width="25%">单价</td>
+              <td width="25%">金额</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <td>水费</td>
+              <td>12</td>
+              <td>12</td>
+              <td>3</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <td>排水费</td>
+              <td>12</td>
+              <td>12</td>
+              <td>3</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <td>垃圾处理费</td>
+              <td>12</td>
+              <td>12</td>
+              <td>3</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <td>电费</td>
+              <td>12</td>
+              <td>12</td>
+              <td>3</td>
+            </tr>
+            <tr height="30" style="text-align: center">
+              <td>合计</td>
+              <td>12</td>
+              <td>12</td>
+              <td>3</td>
+            </tr>
+          </table>
+      </div>
+    </div>
+
+        <p>1：若只打印《表单一》,看一下<a href="javascript:prn1_preview()">打印预览</a>,可<a href="javascript:prn1_print()">直接打印</a>也可
+        <a href="javascript:prn1_printA()">选择打印机</a>打印。
+        <br><br>
+        <p>
+          3：若打印整个页面,看看<a href="javascript:prn3_preview()">打印预览</a>。
+          <br><br> 本例要点是用Document的innerHTML方法把打印目标的超文本送给控件。
+          <p><a href="PrintSampIndex.html">&lt;&lt;回样例目录</a>
+        </p>
+            <script language="javascript" type="text/javascript">
+                var LODOP; //声明为全局变量
+                function prn1_preview() {
+                    CreateOneFormPage();
+                    LODOP.PREVIEW();
+                };
+
+                function prn1_print() {
+                    CreateOneFormPage();
+                    LODOP.PRINT();
+                };
+
+                function prn1_printA() {
+                    CreateOneFormPage();
+                    LODOP.PRINTA();
+                };
+
+                function CreateOneFormPage() {
+                    LODOP = getLodop();
+                    LODOP.PRINT_INIT("打印控件功能演示_Lodop功能_表单一");
+                    LODOP.SET_PRINT_STYLE("FontSize", 18);
+                    LODOP.SET_PRINT_STYLE("Bold", 1);
+                    let strCenterStyle="<!DOCTYPE html><body><style/>table {margin: 0 auto}</style>";
+                    // LODOP.ADD_PRINT_TEXT(50, 231, 260, 39, "打印页面部分内容");
+                    LODOP.ADD_PRINT_HTM(0, 0, '100%', '100%', strCenterStyle + document.getElementById("form1").innerHTML);
+                };
+
+                function prn2_preview() {
+                    CreateTwoFormPage();
+                    LODOP.PREVIEW();
+                };
+
+                function prn2_manage() {
+                    CreateTwoFormPage();
+                    LODOP.PRINT_SETUP();
+                };
+
+                function CreateTwoFormPage() {
+                    LODOP = getLodop();
+                    LODOP.PRINT_INIT("打印控件功能演示_Lodop功能_表单二");
+                    LODOP.ADD_PRINT_RECT(70, 27, 634, 242, 0, 1);
+                    LODOP.ADD_PRINT_TEXT(29, 236, 279, 38, "页面内容改变布局打印");
+                    LODOP.SET_PRINT_STYLEA(2, "FontSize", 18);
+                    LODOP.SET_PRINT_STYLEA(2, "Bold", 1);
+                    LODOP.ADD_PRINT_HTM(88, 40, 321, 185, document.getElementById("form1").innerHTML);
+                    LODOP.ADD_PRINT_HTM(87, 355, 285, 187, document.getElementById("form2").innerHTML);
+                    LODOP.ADD_PRINT_TEXT(319, 58, 500, 30, "注：其中《表单一》按显示大小，《表单二》在程序控制宽度(285px)内自适应调整");
+                };
+
+                function prn3_preview() {
+                    LODOP = getLodop();
+                    LODOP.PRINT_INIT("打印控件功能演示_Lodop功能_全页");
+                    LODOP.ADD_PRINT_HTM(0, 0, "100%", "100%", document.documentElement.innerHTML);
+                    LODOP.PREVIEW();
+                };
+            </script>
+
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+export default {
+  SUCCESS: 0,
+  FAIL: -1,
+  NO_LOGIN: 255,
+  NO_PRIVILEGE: 302,
+  DISABLE: -10004,
+  EXPIRE: -10002,
+
+  ABNORMAL: 20001
+}

@@ -1,0 +1,38 @@
+@import "./_common";
+@import "./_mixin";
+@import "./_variables";
+
+
+.loading-error {
+  color: $error;
+  font-size: 14px;
+}
+.el-button--mini {
+  padding: 8px 8px;
+}
+.el-button--small {
+  padding: 9px 12px;
+}
+
+.el-button [class*=el-icon-]+span {
+  margin-left: 0px;
+}
+.input-big {
+  .el-input__inner {
+    height: 46px;
+  }
+}
+.el-input__inner {
+  // height: 38px;
+}
+.xc-form-select.single {
+  width: 158px !important;
+}
+.el-table th {
+  background: #f5f7fa;
+}
+
+body {
+  color: $main_font;
+  font-size: 15px;
+}
